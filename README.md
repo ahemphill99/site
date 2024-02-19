@@ -24,12 +24,9 @@ Discover how to use the "Tag" feature to organize your events, menus, and equipm
 
 `Loom video link here`
 
-#### Managing External Suppliers
+### Managing External Suppliers
 
-This video explains how to manage external suppliers in our system, from setting up a supplier to placing orders. 
-
-[Watch the video here](https://www.loom.com/share/c2bb69434a37456cb7aeedd2d8f766c6)
-
+This video explains how to manage external suppliers in our system, from setting up a supplier to placing orders. [Watch Video](https://www.loom.com/share/c2bb69434a37456cb7aeedd2d8f766c6){:target="_blank"}
 
 
 ### Menu Planning
