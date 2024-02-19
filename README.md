@@ -1,4 +1,4 @@
-# Puree App Help Page
+# Puree.app Help Page
 
 Welcome to the Puree App Help Page! Here, you'll find guidance and tutorials on how to make the most of Puree's features to streamline your catering operations.
 
@@ -24,11 +24,12 @@ Discover how to use the "Tag" feature to organize your events, menus, and equipm
 
 `Loom video link here`
 
-### Creating and Managing Events
+### Managing External Suppliers
 
-Instructions on how to create new events and manage existing ones within Puree.
+[![External Suppliers](https://www.loom.com/share/c2bb69434a37456cb7aeedd2d8f766c6)]
 
-`Loom video link here`
+This video explains how to manage external suppliers in our system, from setting up a supplier to placing orders. [Watch Video]
+
 
 ### Menu Planning
 
